@@ -11,6 +11,7 @@ This involved the design and implementation of a relational database to support 
 The database allows the business to seamlessly track details regarding:
 
 **Inventory of cars across rental locations**,
+
 **Customer information**
 **Rental dates and history**
 **Insurance plans**
